@@ -1,4 +1,4 @@
-* There is a .cpp file in the zip folder that contains the source code of the SAT solver.
+* A SAT Solver build fully using C++ which solves a given input of CNF formulas in DIMACS format and returns either NULL or a Model ans if a solution exists.
 
 # Requirements
 
